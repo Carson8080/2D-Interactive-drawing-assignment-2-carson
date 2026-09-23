@@ -1,0 +1,7 @@
+﻿Build started at 3:16 PM...
+1>------ Build started: Project: moore-carson-a2-project, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\ghost\source\repos\moore-carson-a2-project\moore-carson-a2-project\Game.cs(76,22,76,35): warning CS0665: Assignment in conditional expression is always constant; did you mean to use == instead of = ?
+1>  moore-carson-a2-project -> C:\Users\ghost\source\repos\moore-carson-a2-project\moore-carson-a2-project\bin\Debug\.net10.0\moore-carson-a2-project.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:16 PM and took 06.117 seconds ==========
